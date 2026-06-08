@@ -69,8 +69,8 @@ The AI model was trained on the [HAM10000 dataset](https://dataverse.harvard.edu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/dermascan-ai.git
-   cd dermascan-ai
+  git clone https://github.com/janaacademic24-dev/skin-cancer-detector.git
+   cd skin-cancer-detector
    ```
 
 2. **Install dependencies**
